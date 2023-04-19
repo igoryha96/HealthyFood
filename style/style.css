@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* ОБНУЛЕНИЕ СТИЛЕЙ */
-/* @import url(../fonts/stylesheet.css); */
+@import url(../fonts/stylesheet.css);
 *,
 *::before,
 *::after {
