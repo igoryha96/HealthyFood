@@ -124,6 +124,9 @@ body {
 			// .header__item
 
 			&__item2 {
+				@media (max-width: 500px){
+					gap: 15px;
+				}
 				@media (max-width: 375px){
 					gap: 15px;
 				}
